@@ -60,6 +60,6 @@
 		"typescript": "^5.0.4"
 	},
 	"dependencies": {
-		"hash-wasm": "^4.9.0"
+		"hash-wasm": "^4.12.0"
 	}
 }
